@@ -1,8 +1,8 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
+1. Friend's Name - John
+2. Adjective - big
+3. Adjective - beautiful
+4. Color - red
+5. Month - june
 6. Number
 7. Noun (Plural)
 8. Noun (Plural)
