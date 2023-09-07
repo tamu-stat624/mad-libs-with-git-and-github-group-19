@@ -13,9 +13,9 @@
 13. Material
 14. Activity
 15. Adverb
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+16. Number: 10
+17. Unit of Time: second
+18. Different Activity: walking
+19. Adjective: slow
+20. Vehicle: car
+21. Your Name: Capt. Jack Sparrow
