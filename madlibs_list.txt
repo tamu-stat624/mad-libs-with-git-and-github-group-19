@@ -3,11 +3,11 @@
 3. Adjective - beautiful
 4. Color - red
 5. Month - june
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
+6. 2
+7. cars
+8. beaches
+9. quicksand
+10. hall loset
 11. Liquid
 12. Adjective
 13. Material
